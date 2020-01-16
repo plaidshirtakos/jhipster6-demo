@@ -28,6 +28,8 @@ ifdef::env-github[]
 endif::[]
 :toc:
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 This article shows you how to build a simple blog application with https://www.jhipster.tech/2019/06/23/jhipster-release-6.1.2.html[JHipster 6.1.2]. You can also https://youtu.be/uQqlO3IGpTU[watch a screencast of this tutorial on YouTube].
 
 ifdef::env-github[]
