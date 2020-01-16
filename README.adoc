@@ -1,6 +1,5 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-
 = Get Started with JHipster 6
 :author: Matt Raible
 :email:  matt@raibledesigns.com
@@ -674,3 +673,6 @@ https://travis-ci.org[Travis CI] is continually testing this project with config
 Matt writes on the http://developer.okta.com/blog[Okta developer blog], for https://www.infoq.com/profile/Matt-Raible/[InfoQ], and on his https://raibledesigns.com/[personal blog]. You can find him on Twitter https://twitter.com/mraible[@mraible].
 
 Matt is a developer on the https://www.jhipster.tech/team/[JHipster team], authored the https://www.infoq.com/minibooks/jhipster-mini-book[JHipster Mini-Book], and helped create https://www.pluralsight.com/courses/play-by-play-developing-microservices-mobile-apps-jhipster[Play by Play: Developing Microservices and Mobile Apps with JHipster].
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
